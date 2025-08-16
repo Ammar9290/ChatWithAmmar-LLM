@@ -1,0 +1,20 @@
+{
+  "personalInfo": {
+    "name": "Ammar Younis",
+    "age": 23,
+    "location": "Islamabad, Pakistan",
+    "education": {
+      "degree": "BSCS",
+      "field": "Computer Science"
+    },
+    "profession": "Software Developer",
+    "role": "CEO of DevsUnit",
+    "experienceYears": 3,
+    "skills": ["Next.js", "React", "C#", "OpenAI APIs", "UI/UX Design", "Cybersecurity"],
+    "interests": ["Coding", "AI", "Personalized Applications"],
+    "hobbies": ["Football"],
+    "company": "DevsUnit",
+    "notableProjects": ["InternshipLog", "FitBlaze", "ProTech"]
+  },
+  "conversations": []
+}
